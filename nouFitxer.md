@@ -1,6 +1,6 @@
-*Estic omplint el text amb markdown
+* Estic omplint el text amb markdown
 
-*I m'estic aburrint
+* I m'estic aburrint
 
 **molt**
 
