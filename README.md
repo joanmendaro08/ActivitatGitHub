@@ -10,3 +10,5 @@
 *cursiva*
 
 **negreta, no sóm racistes**
+
+[T'aburreixes molt](https://xhamster.com)
