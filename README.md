@@ -6,5 +6,7 @@
 * I ara
 1. I ara
 2. I més
+
 *cursiva*
+
 **negreta, no sóm racistes**
