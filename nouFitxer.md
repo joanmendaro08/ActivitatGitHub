@@ -2,7 +2,7 @@
 
 * I m'estic aburrint
 
-Aixo es una kk
+Aixo es una kk gegant
 
 _T'aburreixes??_
 
